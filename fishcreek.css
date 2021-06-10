@@ -76,7 +76,7 @@ margin-bottom: 0;
 margin-top: 0;
 padding: .25em;
 }
-section p { padding: 0 .25em .25em .25em; }
+section p { padding: .25em .25em .25em; }
 .category { 
 color: #5380C5;
 font-family: Georgia, "Times New Roman", serif; 
